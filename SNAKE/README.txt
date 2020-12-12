@@ -5,7 +5,7 @@ Graphics : SDL 2.x (SDL Wrapper Class - Diwas Adhikari)
 Files Included : -> Snake.hpp/.cpp
 		 -> Food.hpp/.cpp
  		 -> Body.hpp/.cpp
-Controls : Keyboard -> (W/A/S/D) - Movement
+Controls : Keyboard -> (UP/DOWN/LEFT/RIGHT) - Movement
                     -> SPACE - Restart After Game Over
 		    -> ESCAPE - Exit The Game
 How to install ? :
