@@ -1,5 +1,4 @@
 # holyschminkos
 
-My private repository
+For game folders, there exist readMe files for process to compilation and controls
 
-Just for stuff ....
