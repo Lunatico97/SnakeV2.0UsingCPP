@@ -10,6 +10,6 @@ Controls : Keyboard -> (UP/DOWN/LEFT/RIGHT) - Movement
 		    -> ESCAPE - Exit The Game
 How to install ? :
 <For Windows>
-Compile the source using C++ compliler and keep the runtime dependencies of SDL2, SDL2_ttf, SDL2_image, SDL2_mixer, zlib (.dll) near the executable file (.exe)
+Compile the source using C++ compiler and keep the runtime dependencies of SDL2, SDL2_ttf, SDL2_image, SDL2_mixer, zlib (.dll) near the executable file (.exe)
 <For every OS>
 Put linkers : -lSDL2main -lSDL2 -lSDL2_image -lSDL2_ttf -lSDL2_mixer  
