@@ -5,7 +5,7 @@ Graphics : SDL 2.x (SDL Wrapper Class - Diwas Adhikari)
 Files Included : -> Snake.hpp/.cpp
 		 -> Food.hpp/.cpp
  		 -> Body.hpp/.cpp
-Features: With everything that a normal arcade 'Snake' game offers, a new parameter called toxicity which influences a collectible: 'Rune' which can either kill a snake if             deadly enough or, can save its life to shrink its length !  
+Features: With everything that a normal arcade 'Snake' game offers, a new parameter called toxicity which influences a collectible: 'Rune' which can either kill a snake if deadly enough or, can save its life to shrink its length !  
 Controls : Keyboard -> (UP/DOWN/LEFT/RIGHT) - Movement
                     -> SPACE - Restart After Game Over
 		    -> ESCAPE - Exit The Game
